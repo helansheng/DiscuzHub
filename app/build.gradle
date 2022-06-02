@@ -8,7 +8,7 @@ android {
     compileSdkVersion 32
     buildToolsVersion "30.0.3"
     defaultConfig {
-        applicationId "com.kidozh.discuzhub"
+        applicationId "site.ifans.gf"
         minSdkVersion 24
         targetSdkVersion 31
         versionCode 48
@@ -51,8 +51,8 @@ android {
         single {
             // fill your bbs id
             manifestPlaceholders = [
-                    discuz_title: "论坛名称（如：西北工业大学三行四方）",
-                    discuz_base_url: "服务网址（如：https://bbs.example.com）",
+                    discuz_title: "芙蕖照归人-过芙CP同人站",
+                    discuz_base_url: "http://gf.ifans.site",
             ]
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             applicationIdSuffix ".bbs"
