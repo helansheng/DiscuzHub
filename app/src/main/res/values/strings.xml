@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Discuz Hub</string>
+    <string name="app_name">Yang Guo Guo Fu Fan site</string>
     <string name="action_settings">Settings</string>
     <string name="title_add_a_forum_by_url">Add a forum by URL</string>
     <string-array name="url_prefix">
